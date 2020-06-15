@@ -1,7 +1,7 @@
 ---
 title: " ML discussion :Decision trees"
 date: 2019-12-21
-tags: [machine learning, data science]
+tags: [machine learning, data science, ml]
 header:
   image: "/images/homeft.jpg"
 excerpt: "Machine Learning ,Decision Trees"
