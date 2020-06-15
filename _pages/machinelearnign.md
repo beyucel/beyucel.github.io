@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /machinelearning/
-title: "ML Discussion"
+title: "Machine Learning Related Topics"
 author_profile: true
 header:
   image: "/images/591905.jpg"
