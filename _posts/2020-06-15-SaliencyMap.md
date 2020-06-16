@@ -1,23 +1,12 @@
 ---
-title: " Saliency map"
+title: " PyMKS Intro"
 date: 2019-12-21
-tags: [machine learning, data science]
+tags: [machine learning, data science ,ml]
 header:
   image: "/images/homeft.jpg"
 excerpt: "Machine Learning ,Decision Trees"
 ---
-# Decision trees
 
-## Concept
-
-
-Python code block:
-
-```python
-    import numpy
-
-```
-<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 
